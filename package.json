@@ -1,5 +1,5 @@
 {
-  "name": "vogels",
+  "name": "@aerobatic/vogels",
   "version": "2.2.0",
   "author": "Ryan Fitzgerald <ryan@codebrewstudios.com>",
   "description": "DynamoDB data mapper",
@@ -16,13 +16,13 @@
     "nosql"
   ],
   "engines": {
-    "node": ">=0.10.30"
+    "node": ">=12"
   },
   "license": "MIT",
   "dependencies": {
     "async": "1.5.x",
     "aws-sdk": "2.2.x",
-    "bunyan": "1.5.x",
+    "bunyan": "1.18.x",
     "joi": "5.x.x",
     "lodash": "4.x.x",
     "node-uuid": "1.4.x"

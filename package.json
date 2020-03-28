@@ -1,5 +1,5 @@
 {
-  "name": "@aerobatic/vogels",
+  "name": "aerobatic-vogels",
   "version": "2.2.2",
   "author": "Ryan Fitzgerald <ryan@codebrewstudios.com>",
   "description": "DynamoDB data mapper",
